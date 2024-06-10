@@ -8,5 +8,5 @@
 
 *kurziva*
 
--seznam
--seznam2
+- seznam
+- seznam2
